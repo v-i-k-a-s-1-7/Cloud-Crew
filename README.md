@@ -158,3 +158,9 @@ Example Response:
   "Simplified Summary": "The Supreme Court ruled that ABC Ltd. is liable for breaching a contract with XYZ Corporation due to delayed delivery of machinery. The Court clarified that the force majeure clause did not cover pandemic-related delays unless explicitly stated. ABC Ltd. was ordered to pay INR 10 crore in damages and bear litigation costs."
 }
 ```
+
+## DEMO VIDEO
+
+
+[![Watch the demo](https://img.youtube.com/vi/gIA5WTO4v5s/0.jpg)](https://www.youtube.com/watch?v=gIA5WTO4v5s)
+
