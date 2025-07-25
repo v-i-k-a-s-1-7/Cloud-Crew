@@ -134,6 +134,10 @@ Access the Application:
 Open your browser and navigate to http://127.0.0.1:5000/.
 
 
+## WORKFLOW IMAGE
+<img width="1536" height="1024" alt="ChatGPT Image Jul 25, 2025, 10_46_19 AM" src="https://github.com/user-attachments/assets/618dedcb-a385-4b53-a559-8a55eac74a28" />
+
+
 ## Testing the Application
 Send a POST Request:
 
